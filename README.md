@@ -7,5 +7,5 @@
 
 ## Tools Used
 - Sass SCSS
-- react-router-dom (for Routing)
-- firebase
+- React-router-dom (for Routing)
+- Firebase

@@ -8,4 +8,4 @@
 ## Tools Used
 - Sass SCSS
 - React-router-dom (for Routing)
-- Firebase
+- Firebase (for Database, Google Sign-In, User Auth)

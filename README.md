@@ -6,6 +6,6 @@
 - M. Gesit Alifandi
 
 ## Tools Used
-- [Sass SCSS](#Sass-SCSS) (for Styling )
-- React-router-dom (for Routing)
-- Firebase (for Database, Google Sign-In, Email Sign-In/Sign-Up User Auth)
+- [Sass SCSS](#https://sass-lang.com/documentation/) (for Styling )
+- [React-router-dom](#https://reactrouter.com/web/guides/quick-start) (for Routing)
+- [Firebase](#https://firebase.google.com/docs) (for Database, Google Sign-In, Email Sign-In/Sign-Up User Auth)

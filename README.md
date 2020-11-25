@@ -6,6 +6,6 @@
 - M. Gesit Alifandi
 
 ## Tools Used
-- Sass SCSS (for Styling)
+- Sass SCSS (for Styling )
 - React-router-dom (for Routing)
 - Firebase (for Database, Google Sign-In, User Auth)

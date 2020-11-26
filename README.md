@@ -3,7 +3,7 @@
 
 ## Kelompok 14
 - Muhammad Zulfikar Isnanto (21120117140011)
-- M. Gesit Alifandi         (21120117120031)
+- M. Gesit Alifandi (21120117120031)
 
 ## Tools Used
 - [Sass SCSS](https://sass-lang.com/documentation/) (for Styling)

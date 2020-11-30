@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/isnantozul/crwn-clothing.svg?branch=master)](https://travis-ci.org/isnantozul/crwn-clothing)
-[![npm package][npm-badge]][npm]
+[![Version Badge](http://versionbadg.es//isnantozul/crwn-clothing.svg)](https://npmjs.org/package/crwn-clothing)
 
 # TUGAS BESAR PRAKTIKUM RSBK
 

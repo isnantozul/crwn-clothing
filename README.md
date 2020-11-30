@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/isnantozul/crwn-clothing.svg?branch=master)](https://travis-ci.org/isnantozul/crwn-clothing)
-[![Version Badge](http://versionbadg.es//isnantozul/crwn-clothing.svg)](https://npmjs.org/package/crwn-clothing)
-
 # TUGAS BESAR PRAKTIKUM RSBK
 
 ## Kelompok 14
